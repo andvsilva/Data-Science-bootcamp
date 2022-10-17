@@ -11,6 +11,8 @@ package is to workaround how to create a python package.
 pip install cli-python
 ```
 
+![](/pipinstall.png)
+
 ## Usage
 
 ```bash
