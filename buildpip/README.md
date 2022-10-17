@@ -1,8 +1,8 @@
 # Command line Interface in Python
 
 In this package I build an example of a command line interface(CLI)
-based on CLI from linux bash commands. The main proposal of this
-package is to workaround how to create a package in python.
+based on CLI from Linux bash commands. The main proposal of this
+package is to workaround how to create a python package.
 
 
 ## How to install
@@ -73,3 +73,5 @@ This project is licensed under the MIT License
 ## Useful link
 
 [Create your own Python package and publish it into PyPI](https://towardsdatascience.com/create-your-own-python-package-and-publish-it-into-pypi-9306a29bc116)
+
+[Link Tutorial DIO - Karina Kato Machine Learning Engineer/Machine Learning Tech Lead - Take](https://docs.google.com/presentation/d/1gzBKKZdtJdDfhKBF_0Yr4k6Xj8yke2CT/edit?usp=sharing&ouid=106523872326125524348&rtpof=true&sd=true)
