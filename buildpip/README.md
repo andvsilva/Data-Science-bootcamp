@@ -69,3 +69,7 @@ This project is licensed under the MIT License
 ## Author
 
 [Andre Vieira Silva](https://andsilvadrcc.gitlab.io/my-web-page-andre-vieira/).
+
+## Useful link
+
+[Create your own Python package and publish it into PyPI](https://towardsdatascience.com/create-your-own-python-package-and-publish-it-into-pypi-9306a29bc116)
